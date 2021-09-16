@@ -1,5 +1,7 @@
 # Hello-world
 
-Hi Humans
+#in code editor,open new file and name it Hello
+#print("Hello World")
+#debug and run file,Hello world will be  printed on the terminal
 
-Im Steve,I like Python and c programming
+print("Hello World")
